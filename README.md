@@ -1,0 +1,1 @@
+Building a logistic regression model to uncover value in moneyline bets for the NBA. You can find the methodology in the jupyter notebook. To run the code yourself, you can clone the repository, run "pip install -r requirements.txt", and then run the code. 
